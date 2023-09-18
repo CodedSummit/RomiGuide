@@ -1,8 +1,11 @@
 # RomiGuide
 Getting started instructions for learning to program the Romi robots.
 
+This guide can be found at: https://github.com/CodedSummit/RomiGuide
+
 ## Robot Setup
 - Remove the robot from the case, and set it on the test stand. Turn it on with the power switch on the edge of the circuit board.
+  - Note: It's a good idea to use fresh batteries to avoid complications. Recharge the batteries in the Romi and replace with a fresh set.
 - Plug the wifi USB adapter into a USB port on the computer.
 - Plug the XBox Controller into a USB port on the computer.
 - Connect to the wifi access point ending with the code on the Romi's sticker: `WPILibPi-code>` with password: `WPILib2021!`
